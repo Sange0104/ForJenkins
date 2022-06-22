@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("Sangeetha is an excellent Tester");
 		System.out.println("She is doing great job");
+		System.out.println("Stay Cool");
 	}
 
 }
